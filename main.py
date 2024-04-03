@@ -1,10 +1,6 @@
-states_Of_America = ["Alabama", "Alaska", "Arizona", "Arkansas", "California" , "Colorado", "Connecticut", "Delaware", "Florida", "Georgia" , "Hawaii", "Idaho", "Illinois", "Indiana",  ]
-print (states_Of_America [1])
+dity_dozen = ["Strawberries", "Spinach", "Kale", "Nectarines", "Apples", "Grapes" , "Peaches", "Cherries", "Pears", "Tomatoes", "Celery", "Potates"]
 
-states_Of_America[1] = "alasska"
+fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potates"]
 
-
-print(states_Of_America[1])
-
-states_Of_America.extend(["Xyz"])
-print(states_Of_America)
+dirty_dozen = [fruits, vegetables]
